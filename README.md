@@ -4,7 +4,7 @@
 - Python
 - FastAPI (фреймворк для разработки REST API)
 - FastStream (фреймворк для работы с очередями сообщений)
-- Uvicorn (ASGI web server implementation). С его помощью можно горизонтально масштабировать сервис аукционов
+- Uvicorn (ASGI web server implementation). С его помощью был горизонтально масштабирован сервис аукционов
 - Pydantic для валидации данных
 - PostgreSQL
 - RabbitMQ
