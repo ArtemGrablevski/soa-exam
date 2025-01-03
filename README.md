@@ -15,10 +15,10 @@
 - Git VSC
 
 ## Реализованная архитектура
-<img src="https://github.com/ArtemGrablevski/soa-exam/blob/main/img/architecture.png" width="400" height="400">
+<img src="https://github.com/ArtemGrablevski/soa-exam/blob/main/img/architecture.png">
 
 ## Нагрузочное тестирование системы с locust
-<img src="https://github.com/ArtemGrablevski/soa-exam/blob/main/img/locust.png" width="400" height="400">
+<img src="https://github.com/ArtemGrablevski/soa-exam/blob/main/img/locust.png">
 
 ## Запуск по шагам:
 1) Запуск RabbitMQ
