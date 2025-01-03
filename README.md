@@ -4,14 +4,21 @@
 - Python
 - FastAPI (фреймворк для разработки REST API)
 - FastStream (фреймворк для работы с очередями сообщений)
+- Uvicorn (ASGI web server implementation). С его помощью можно горизонтально масштабировать сервис аукционов
 - Pydantic для валидации данных
 - PostgreSQL
 - RabbitMQ
 - SQLALchemy (Python ORM) & alembic (инструмент для миграций БД)
-- locust для нагрузочного тестирования
+- Locust для нагрузочного тестирования
 - Docker & docker compose
 - Swagger UI (интерактивная документация к REST API)
 - Git VSC
+
+## Реализованная архитектура
+<img src="https://github.com/ArtemGrablevski/soa-exam/blob/main/img/architecture.png" width="400" height="400">
+
+## Нагрузочное тестирование системы с locust
+<img src="https://github.com/ArtemGrablevski/soa-exam/blob/main/img/locust.png" width="400" height="400">
 
 ## Запуск по шагам:
 1) Запуск RabbitMQ
